@@ -34,7 +34,7 @@ export class Product {
 
     this.meta.addTag({
     property: 'og.url',
-    content: 'https://localhost:4200/products'
+    content: 'https://web-landing-lemon-nu.vercel.app/product'
     });
   }
 }

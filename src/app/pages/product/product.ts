@@ -29,7 +29,7 @@ export class Product {
 
     this.meta.addTag({
     property: 'og.image',
-    content: 'https://png.pngtree.com/png-clipart/20250102/original/pngtree-makeup-and-beauty-essentials-showcasing-a-variety-of-tools-products-for-png-image_20002614.png'
+    content: 'https://www.telemundo.com/sites/nbcutelemundo/files/styles/social_share_1024x768_scale/public/images/article/cover/2020/01/07/productos_belleza_2020.jpg?ramen_itok=iqwQftIcTf'
     });
 
     this.meta.addTag({
